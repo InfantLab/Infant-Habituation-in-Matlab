@@ -1,0 +1,22 @@
+Simple Habituation Subject Data File
+22-Feb-2012 11:37:11
+Participant 0
+simple habituation
+TRIAL -- 1
+H-1 Checkerboard
+0.504	,1	,0.502	,0.502
+TRIAL -- 2
+H-2 Checkerboard
+1.538	,1	,0.501	,0.501
+TRIAL -- 3
+H-3 Checkerboard
+0.502	,1	,0.500	,0.500
+TRIAL -- 4
+H-4 Checkerboard
+0.503	,1	,0.501	,0.501
+TRIAL -- 5
+H-5 Checkerboard
+0.503	,1	,0.502	,0.502
+TRIAL -- 6
+H-6 Checkerboard
+0.504	,1	,0.502	,0.502
